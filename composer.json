@@ -6,7 +6,9 @@
     "require": {
         "composer/installers": "^1.0.24",
         "wikimedia/composer-merge-plugin": "^1.4",
-        "drupal/adminimal_theme": "^1.4"
+        "drupal/adminimal_theme": "^1.4",
+        "drupal/paragraphs": "^1.8",
+        "drupal/devel": "^2.1"
     },
     "replace": {
         "drupal/core": "^8.7"
